@@ -37,8 +37,8 @@ The dataset is provided as csv (and parquet) files, one for each partition: `tra
 <!-- 
 | Split | # Walls | 
 |:-------|:---------:|
-| `train` |   494   |
-| `test`  | 62      |
+| `train` |   311K   |
+| `test`  |   49K    |
 
 Here is an example of the dataset's structure:
 
